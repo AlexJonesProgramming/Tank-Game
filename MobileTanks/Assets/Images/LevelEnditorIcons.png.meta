@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: d5914666451752345ad1410d6981de60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8933775359794918319
+    second: Normal
+  - first:
+      213: 6279831407184150480
+    second: LevelEnditorIcons_1
+  - first:
+      213: -2218732000868269528
+    second: LevelEnditorIcons_2
+  - first:
+      213: 8584938006943793484
+    second: LevelEnditorIcons_3
+  - first:
+      213: -7877543561574612233
+    second: LevelEnditorIcons_4
+  - first:
+      213: 4865243637669651258
+    second: LevelEnditorIcons_5
+  - first:
+      213: 4427831188175608653
+    second: LevelEnditorIcons_6
+  - first:
+      213: -581157656811853677
+    second: LevelEnditorIcons_7
+  - first:
+      213: 6131305670214826093
+    second: LevelEnditorIcons_8
+  - first:
+      213: 1472371198708162359
+    second: LevelEnditorIcons_9
+  - first:
+      213: 4488509395865564451
+    second: LevelEnditorIcons_10
+  - first:
+      213: -3870172439333004802
+    second: LevelEnditorIcons_11
+  - first:
+      213: 8681571845422204573
+    second: LevelEnditorIcons_12
+  - first:
+      213: -2910153993884684679
+    second: LevelEnditorIcons_13
+  - first:
+      213: 2507563324248452525
+    second: LevelEnditorIcons_14
+  - first:
+      213: 469413299309835277
+    second: LevelEnditorIcons_15
+  - first:
+      213: -952711311975531248
+    second: LevelEnditorIcons_16
+  - first:
+      213: 9193217244828946430
+    second: LevelEnditorIcons_17
+  - first:
+      213: -8427605754576863257
+    second: LevelEnditorIcons_18
+  - first:
+      213: -1054788964128033616
+    second: LevelEnditorIcons_19
+  - first:
+      213: -7174706200199789966
+    second: LevelEnditorIcons_20
+  - first:
+      213: 4487738292617714459
+    second: LevelEnditorIcons_21
+  - first:
+      213: 6577177132615786278
+    second: LevelEnditorIcons_22
+  - first:
+      213: -742682757509939479
+    second: LevelEnditorIcons_23
+  - first:
+      213: 8786119736043827200
+    second: LevelEnditorIcons_24
+  - first:
+      213: 8731449309983333553
+    second: LevelEnditorIcons_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Normal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1147
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c10d3b4ea74945a30966c4624afce
+      internalID: -8933775359794918319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1147
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330cf586918bc754b9446e0ffb3323b2
+      internalID: 6279831407184150480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1147
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ab095b082b5646ae5377e27cb3e77
+      internalID: -2218732000868269528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1147
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c9a5892d49654a8f765823bc1cf46
+      internalID: 8584938006943793484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1147
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63567f749ea95514fa288d3d1fa44c9d
+      internalID: -7877543561574612233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed813ff26501047b0294f3c773225e
+      internalID: 4865243637669651258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 913
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d32356f64b793409fd2a2d801511ed
+      internalID: 4427831188175608653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 913
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeab68ca91aba8408131f010ba4f015
+      internalID: -581157656811853677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 913
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4005eede7e30240bf81354d146e914
+      internalID: 6131305670214826093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 913
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b1286c11a762418bacd5e15f0a6ae
+      internalID: 1472371198708162359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceab73059fc37548bb95ea38d7c29b0
+      internalID: 4488509395865564451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 679
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bbf94da3070f4d9550b82ed811227
+      internalID: -3870172439333004802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 679
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1fac635cf81d84cbd7eba502889696
+      internalID: 8681571845422204573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 679
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465205a9e32351c429071b207a634b5d
+      internalID: -2910153993884684679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_14
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 679
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63df09b05c7524e8965bc27d5b0006
+      internalID: 2507563324248452525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea25e0e0aaaef34d8fd677b9c67cfab
+      internalID: 469413299309835277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 445
+        width: 268
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27d72a77b99d044848acaa1094be10
+      internalID: -952711311975531248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 445
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426ca74925d3624cb51d842dc77201f
+      internalID: 9193217244828946430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 445
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56568fa1e51a8409bffe4ee16a13c9
+      internalID: -8427605754576863257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_19
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 445
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e824cf6dac0644f9ae3b6a052d70fa
+      internalID: -1054788964128033616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 429
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac38093d44df5439729df155016601
+      internalID: -7174706200199789966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 212
+        width: 429
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547c2e36441e8b4b980c4a13159b2f7
+      internalID: 4487738292617714459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_22
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 212
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c70bfd84443d54b83d70bde86d6cb7
+      internalID: 6577177132615786278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 429
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19068e5bc3fd1924f867fb2e3d6f84af
+      internalID: -742682757509939479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 429
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ff2baa244d304f88d18708e408453
+      internalID: 8786119736043827200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelEnditorIcons_25
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a126853cc4b1d488e9348a4b335a33
+      internalID: 8731449309983333553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a063e8392e541324bb54bbac84c13e52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
